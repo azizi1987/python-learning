@@ -4,3 +4,4 @@ b = 4
 # list_a = []
 # for i in list_a:
     # print(i)
+c = 6
